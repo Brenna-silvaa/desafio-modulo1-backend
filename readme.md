@@ -1,0 +1,1 @@
+Desafio de lógica realizado para a conclusão do módulo 1 no curso de programção do zero na cubos academy.
